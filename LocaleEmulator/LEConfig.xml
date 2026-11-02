@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LEConfig>
+  <Profiles>
+    <Profile Name="Chinese (Simplified)" Guid="7c4e0b0a-2003-4f00-9a00-000000002003" MainMenu="false">
+      <Parameter></Parameter>
+      <Location>zh-CN</Location>
+      <Timezone>China Standard Time</Timezone>
+      <RunAsAdmin>false</RunAsAdmin>
+      <RedirectRegistry>true</RedirectRegistry>
+      <IsAdvancedRedirection>false</IsAdvancedRedirection>
+      <RunWithSuspend>false</RunWithSuspend>
+    </Profile>
+  </Profiles>
+</LEConfig>
